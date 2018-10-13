@@ -10,5 +10,5 @@ Good luck!<br>
 Selamlar. <br>
 Bu projede, SQLite a veri kaydetmek için server kodu kullanılmıştır. Bu yüzden, bu projede parçalama komutunu görebilirsiniz.<br>
 Programlama dili Python dur.
-Sayfamdaki RemoteConnection dan client bölümünü görebilirsiniz.(Bu arada,bu client bölümünün dili C# tır.)
+Sayfamdaki RemoteConnection dan client bölümünü görebilirsiniz.(Bu arada,bu client bölümünün dili C# tır.)<br>
 Kolay gelsin.
