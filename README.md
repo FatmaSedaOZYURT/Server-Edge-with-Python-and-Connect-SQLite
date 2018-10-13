@@ -1,10 +1,10 @@
-# Server-Edge-with-Python-and-Connect-SQLite
+# Server-Side-with-Python-and-Connect-SQLite
 This project take a data from the client and then, it saves the data in SQLite.
 <br>
 Hi everyone!<br>
-In this project, server edge is used for save the data in SQLite. So, you can see split command in this project.<br>
+In this project, server side is used for save the data in SQLite. So, you can see split command in this project.<br>
 Programming language is Python.<br>
-You can see client edge of RemoteConnection project in my page.(By the way, this client edge's language is C#)<br>
+You can see client side of RemoteConnection project in my page.(By the way, this client side's language is C#)<br>
 Good luck!<br>
 
 Selamlar. <br>
